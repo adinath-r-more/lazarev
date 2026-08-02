@@ -34,6 +34,48 @@ body {
   background-color: #0BA34E;
 }
 
+#page1 p{
+  text-align: center;
+  font-weight: 400;
+  margin-top: 3vh;
+}
+
+
+#page1-something{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#page1-something h4{
+  font-weight: 400;
+  font-size: 1vw;
+  text-transform: lowercase;
+  margin-top: 0.5vw;
+  padding: 5px 12px;
+  border: 1px solid #c4c3c3;
+  border-radius: 50px;
+}
+
+#page1-something h4:nth-last-child(2){
+  border: none;
+  padding: 2px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #page2 {
   height: 100vh;
   width: 100%;
